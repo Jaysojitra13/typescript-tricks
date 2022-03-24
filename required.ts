@@ -1,7 +1,7 @@
 type User = {
-  name: string,
-  age?: number, // optional
-  gender?: string // optional
+  name: string;
+  age?: number; // optional
+  gender?: string; // optional
 };
 
 // Below line will make all the fields required from above type
