@@ -1,6 +1,6 @@
 type User = {
-  name: string,
-  age: number
+  name: string;
+  age: number;
 };
 
 // This line will make all the fields optional inside type
